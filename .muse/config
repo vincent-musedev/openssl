@@ -1,0 +1,3 @@
+build = "make"
+setup = ".muse/setup.sh"
+tools = ["infer"]
